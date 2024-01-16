@@ -16,8 +16,7 @@ ClassLoader —-> SecureClassLoader —> URLClassLoader —-> APPClassLoader —
 
 继承了ClassLoader
 
-![image-20240116154428607](README/image-20240116154428607.png)
-
+<img width="1343" alt="image" src="https://github.com/Shear1n/JavasecStudy/assets/54801949/e481cc54-28e2-4c23-81c9-8a6c5cd5b24d">
 
 
 定义一个恶意类
