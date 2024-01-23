@@ -17,6 +17,6 @@ Java反射
 
 ### 进阶
 
-[Commons-Collections1](https://shear1n.github.io/2024/01/18/Commons-Collections%E5%88%A9%E7%94%A8%E9%93%BE%E5%88%86%E6%9E%90/)
+[Commons-Collections1](https://shear1n.github.io/2024/01/18/Commons-Collections1%E5%88%A9%E7%94%A8%E9%93%BE%E5%88%86%E6%9E%90/)
 
 [Commons-Collections6](https://shear1n.github.io/2024/01/19/Commons-Collections6%E5%88%A9%E7%94%A8%E9%93%BE%E5%88%86%E6%9E%90/)
