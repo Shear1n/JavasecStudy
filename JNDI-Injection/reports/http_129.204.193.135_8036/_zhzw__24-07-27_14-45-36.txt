@@ -1,0 +1,11 @@
+# Dirsearch started Sat Jul 27 14:47:49 2024 as: /Library/Frameworks/Python.framework/Versions/3.9/bin/dirsearch -u http://129.204.193.135:8036/zhzw/ -e Evil.class Evil.java pom.xml reports src target
+
+404     0B   http://129.204.193.135:8036/zhzw/%2e%2e//google.com
+404     0B   http://129.204.193.135:8036/zhzw/..;/
+404     0B   http://129.204.193.135:8036/zhzw/%2e%2e;/test
+400     0B   http://129.204.193.135:8036/zhzw/\..\..\..\..\..\..\..\..\..\etc\passwd
+400     0B   http://129.204.193.135:8036/zhzw/a%5c.aspx
+302     0B   http://129.204.193.135:8036/zhzw/css    -> REDIRECTS TO: http://129.204.193.135:8036/zhzw/css/
+200   336B   http://129.204.193.135:8036/zhzw/index.html
+302     0B   http://129.204.193.135:8036/zhzw/js    -> REDIRECTS TO: http://129.204.193.135:8036/zhzw/js/
+302     0B   http://129.204.193.135:8036/zhzw/META-INF    -> REDIRECTS TO: http://129.204.193.135:8036/zhzw/META-INF/

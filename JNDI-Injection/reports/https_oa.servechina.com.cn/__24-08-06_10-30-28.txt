@@ -1,0 +1,10 @@
+# Dirsearch started Tue Aug  6 10:31:03 2024 as: /Library/Frameworks/Python.framework/Versions/3.9/bin/dirsearch -u https://oa.servechina.com.cn/ -e Evil.class Evil.java pom.xml reports src target
+
+200     7B   https://oa.servechina.com.cn/1.txt
+400   373B   https://oa.servechina.com.cn/\..\..\..\..\..\..\..\..\..\etc\passwd
+400   373B   https://oa.servechina.com.cn/a%5c.aspx
+200     1KB  https://oa.servechina.com.cn/favicon.ico
+302     0B   https://oa.servechina.com.cn/g    -> REDIRECTS TO: /seeyon/g
+200    27B   https://oa.servechina.com.cn/logs.txt
+200    26B   https://oa.servechina.com.cn/robots.txt
+200    11B   https://oa.servechina.com.cn/test.jsp

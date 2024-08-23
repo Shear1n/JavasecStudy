@@ -1,0 +1,4 @@
+# Dirsearch started Tue Jul 23 16:29:47 2024 as: /Library/Frameworks/Python.framework/Versions/3.9/bin/dirsearch -u https://yingxin.huel.edu.cn/ -e Exec.class Exec.java pom.xml reports src target
+
+200     9KB  https://yingxin.huel.edu.cn/favicon.ico
+200     3KB  https://yingxin.huel.edu.cn/index.html

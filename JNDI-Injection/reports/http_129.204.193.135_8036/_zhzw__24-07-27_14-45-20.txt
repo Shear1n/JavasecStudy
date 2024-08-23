@@ -1,0 +1,6 @@
+# Dirsearch started Sat Jul 27 14:45:21 2024 as: /Library/Frameworks/Python.framework/Versions/3.9/bin/dirsearch -u http://129.204.193.135:8036/zhzw/
+
+404     0B   http://129.204.193.135:8036/zhzw/%2e%2e//google.com
+404     0B   http://129.204.193.135:8036/zhzw/%2e%2e;/test
+302     0B   http://129.204.193.135:8036/zhzw/js    -> REDIRECTS TO: http://129.204.193.135:8036/zhzw/js/
+404     0B   http://129.204.193.135:8036/zhzw/..;/

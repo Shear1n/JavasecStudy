@@ -1,0 +1,9 @@
+# Dirsearch started Tue Aug  6 10:37:28 2024 as: /Library/Frameworks/Python.framework/Versions/3.9/bin/dirsearch -u https://202.104.177.162 -e Evil.class Evil.java pom.xml reports src target
+
+200     7B   https://202.104.177.162/1.txt
+400   373B   https://202.104.177.162/\..\..\..\..\..\..\..\..\..\etc\passwd
+400   373B   https://202.104.177.162/a%5c.aspx
+200     1KB  https://202.104.177.162/favicon.ico
+302     0B   https://202.104.177.162/g    -> REDIRECTS TO: /seeyon/g
+200    26B   https://202.104.177.162/robots.txt
+200     6B   https://202.104.177.162/test.jsp

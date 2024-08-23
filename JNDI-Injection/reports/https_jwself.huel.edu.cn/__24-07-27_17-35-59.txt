@@ -1,0 +1,395 @@
+# Dirsearch started Sat Jul 27 17:36:59 2024 as: /Library/Frameworks/Python.framework/Versions/3.9/bin/dirsearch -u https://jwself.huel.edu.cn/ -e Evil.class Evil.java pom.xml reports src target
+
+404   494B   https://jwself.huel.edu.cn/.ico
+404   494B   https://jwself.huel.edu.cn/.jpg
+302     0B   https://jwself.huel.edu.cn/.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+404   494B   https://jwself.huel.edu.cn/.png
+200     1KB  https://jwself.huel.edu.cn/.rebar3
+200     1KB  https://jwself.huel.edu.cn/.redcar
+200     1KB  https://jwself.huel.edu.cn/.rediscli_history
+200     1KB  https://jwself.huel.edu.cn/.recommenders/
+200     1KB  https://jwself.huel.edu.cn/.rdsTempFiles
+200     1KB  https://jwself.huel.edu.cn/.recommenders
+200     1KB  https://jwself.huel.edu.cn/.Rbuildignore
+200     1KB  https://jwself.huel.edu.cn/.rbenv-version
+200     1KB  https://jwself.huel.edu.cn/.rebar
+200     1KB  https://jwself.huel.edu.cn/.readthedocs.yml
+200     1KB  https://jwself.huel.edu.cn/.README.md.bud
+400   762B   https://jwself.huel.edu.cn/\..\..\..\..\..\..\..\..\..\etc\passwd
+400   762B   https://jwself.huel.edu.cn/a%5c.aspx
+302     0B   https://jwself.huel.edu.cn/a2e2gp2r2/x.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/account/login.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/accounts.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/accounts/login.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+200     1KB  https://jwself.huel.edu.cn/actuator/status
+200     1KB  https://jwself.huel.edu.cn/actuator/sso
+200     1KB  https://jwself.huel.edu.cn/actuators/
+200     1KB  https://jwself.huel.edu.cn/actuator/metrics
+200     1KB  https://jwself.huel.edu.cn/actuators/logfile
+200     1KB  https://jwself.huel.edu.cn/actuator/releaseAttributes
+200     1KB  https://jwself.huel.edu.cn/actuator/trace
+200     1KB  https://jwself.huel.edu.cn/actuator/shutdown
+200     1KB  https://jwself.huel.edu.cn/actuator/springWebflow
+200     1KB  https://jwself.huel.edu.cn/actuator/prometheus
+200     1KB  https://jwself.huel.edu.cn/actuator/management
+200     1KB  https://jwself.huel.edu.cn/actuators/dump
+200     1KB  https://jwself.huel.edu.cn/actuator/threaddump
+200     1KB  https://jwself.huel.edu.cn/actuators/health
+200     1KB  https://jwself.huel.edu.cn/actuator/registeredServices
+200     1KB  https://jwself.huel.edu.cn/actuators/env
+200     1KB  https://jwself.huel.edu.cn/actuator/sessions
+200     1KB  https://jwself.huel.edu.cn/actuator/ssoSessions
+200     1KB  https://jwself.huel.edu.cn/actuator/mappings
+302     0B   https://jwself.huel.edu.cn/adm.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/admin.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/admin/login.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/admin/logon.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/admin/secure/logon.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+404   494B   https://jwself.huel.edu.cn/admin_my_avatar.png
+302     0B   https://jwself.huel.edu.cn/administrator.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/admintool.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+404   494B   https://jwself.huel.edu.cn/api/batch
+500   512B   https://jwself.huel.edu.cn/app
+500   512B   https://jwself.huel.edu.cn/app/.htaccess
+500   512B   https://jwself.huel.edu.cn/app/
+500   512B   https://jwself.huel.edu.cn/app/bootstrap.php.cache
+500   512B   https://jwself.huel.edu.cn/app/__pycache__/
+500   512B   https://jwself.huel.edu.cn/app/bin
+500   512B   https://jwself.huel.edu.cn/app/composer.lock
+500   512B   https://jwself.huel.edu.cn/app/cache/
+200     1KB  https://jwself.huel.edu.cn/app/config/database.yml.pgsql
+200     1KB  https://jwself.huel.edu.cn/app/Config/database.php
+500   512B   https://jwself.huel.edu.cn/app/composer.json
+200     1KB  https://jwself.huel.edu.cn/app/Config/core.php
+200     1KB  https://jwself.huel.edu.cn/app/config/adminConf.json
+200     1KB  https://jwself.huel.edu.cn/app/config/database.yml.sqlite3
+200     1KB  https://jwself.huel.edu.cn/app/config/database.yml
+500   512B   https://jwself.huel.edu.cn/app/etc/local.xml.bak
+500   512B   https://jwself.huel.edu.cn/app/config/routes.cfg
+500   512B   https://jwself.huel.edu.cn/app/etc/fpc.xml
+500   512B   https://jwself.huel.edu.cn/app/config/database.yml~
+500   512B   https://jwself.huel.edu.cn/app/etc/local.xml
+500   512B   https://jwself.huel.edu.cn/app/config/databases.yml
+500   512B   https://jwself.huel.edu.cn/app/config/schema.yml
+500   512B   https://jwself.huel.edu.cn/app/etc/enterprise.xml
+500   512B   https://jwself.huel.edu.cn/app/etc/config.xml
+500   512B   https://jwself.huel.edu.cn/app/etc/local.additional
+500   512B   https://jwself.huel.edu.cn/app/etc/local.xml.live
+500   512B   https://jwself.huel.edu.cn/app/dev
+500   512B   https://jwself.huel.edu.cn/app/etc/local.xml.phpunit
+500   512B   https://jwself.huel.edu.cn/app/config/parameters.yml
+500   512B   https://jwself.huel.edu.cn/app/config/global.json
+500   512B   https://jwself.huel.edu.cn/app/etc/local.xml.additional
+500   512B   https://jwself.huel.edu.cn/app/config/parameters.ini
+500   512B   https://jwself.huel.edu.cn/app/docs
+500   512B   https://jwself.huel.edu.cn/app/etc/local.xml.localRemote
+500   512B   https://jwself.huel.edu.cn/app/kibana/
+500   512B   https://jwself.huel.edu.cn/app/etc/local.xml.vmachine
+500   512B   https://jwself.huel.edu.cn/app/etc/local.xml.template
+500   512B   https://jwself.huel.edu.cn/app/languages
+500   512B   https://jwself.huel.edu.cn/app/log/
+500   512B   https://jwself.huel.edu.cn/app/etc/local.xml.vmachine.rm
+500   512B   https://jwself.huel.edu.cn/app/storage/
+500   512B   https://jwself.huel.edu.cn/app/src
+500   512B   https://jwself.huel.edu.cn/app/phpunit.xml
+500   512B   https://jwself.huel.edu.cn/app/logs/
+500   512B   https://jwself.huel.edu.cn/app/testing
+500   512B   https://jwself.huel.edu.cn/app/unschedule.bat
+500   512B   https://jwself.huel.edu.cn/app/tmp/
+500   512B   https://jwself.huel.edu.cn/app/sys
+500   512B   https://jwself.huel.edu.cn/app/vendor-src
+500   512B   https://jwself.huel.edu.cn/app/vendor
+500   512B   https://jwself.huel.edu.cn/app/vendor-
+302     0B   https://jwself.huel.edu.cn/auth.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/axis//happyaxis.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/axis2//axis2-web/HappyAxis.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/axis2-web//HappyAxis.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/bea_wls_internal/a2e2gp2r2/x.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/bea_wls_internal/psquare/x.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/cachemonitor/statistics.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/cmdjsp.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/com.ibm.ws.console.events/runtime_messages.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/compass/logon.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+200     1KB  https://jwself.huel.edu.cn/console
+200     1KB  https://jwself.huel.edu.cn/Connections
+200     1KB  https://jwself.huel.edu.cn/ConsoleHelp/
+200     1KB  https://jwself.huel.edu.cn/consul/
+200     1KB  https://jwself.huel.edu.cn/console/j_security_check
+200     1KB  https://jwself.huel.edu.cn/connections
+200     1KB  https://jwself.huel.edu.cn/ConsoleHelp
+200     1KB  https://jwself.huel.edu.cn/console/login/LoginForm.jsp
+200     1KB  https://jwself.huel.edu.cn/console/base/config.json
+200     1KB  https://jwself.huel.edu.cn/connections.Evil.class
+200     1KB  https://jwself.huel.edu.cn/console/
+302     0B   https://jwself.huel.edu.cn/crx/de/index.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/debug_error.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/demo/sql/index.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/dfshealth.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/error.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/examples/jsp/snp/snoop.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/examplesWebApp/index.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/examplesWebApp/InteractiveQuery.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/examplesWebApp/OrderParser.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/examplesWebApp/WebservicesEJB.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/examplesWebApp/EJBeanManagedClient.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+404   494B   https://jwself.huel.edu.cn/favicon.ico
+200     1KB  https://jwself.huel.edu.cn/go.Evil.class
+200     1KB  https://jwself.huel.edu.cn/globals.jsa
+200     1KB  https://jwself.huel.edu.cn/glpi
+200     1KB  https://jwself.huel.edu.cn/go
+200     1KB  https://jwself.huel.edu.cn/glossary
+200     1KB  https://jwself.huel.edu.cn/google
+302     0B   https://jwself.huel.edu.cn/happyaxis.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/hellouser.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/HelloHTMLError.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/HelloWML.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/HelloVXML.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/HelloWMLError.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/HelloVXMLError.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/HelloHTML.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/HitCount.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+404   494B   https://jwself.huel.edu.cn/IdentityGuardSelfService/images/favicon.ico
+302     0B   https://jwself.huel.edu.cn/index.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/ivt/ivtDate.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/jsp-reverse.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/jsp/viewer/snoop.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/jsp/extension/login.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/login.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/logon/logon.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/logon.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+200     1KB  https://jwself.huel.edu.cn/main/
+200     1KB  https://jwself.huel.edu.cn/main/login
+200     1KB  https://jwself.huel.edu.cn/maintainers.txt
+200     1KB  https://jwself.huel.edu.cn/maintenance.Evil.class
+200     1KB  https://jwself.huel.edu.cn/mainadmin
+200     1KB  https://jwself.huel.edu.cn/maint/
+200     1KB  https://jwself.huel.edu.cn/MAINTAINERS.txt
+200     1KB  https://jwself.huel.edu.cn/mailman/listinfo
+200     1KB  https://jwself.huel.edu.cn/mailman
+200     1KB  https://jwself.huel.edu.cn/main.mdb
+302     0B   https://jwself.huel.edu.cn/member/login.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/members.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/members/login.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+404   494B   https://jwself.huel.edu.cn/META-INF/jboss-client.xml
+404   494B   https://jwself.huel.edu.cn/META-INF/
+404   494B   https://jwself.huel.edu.cn/META-INF/beans.xml
+404   494B   https://jwself.huel.edu.cn/META-INF/CERT.SF
+404   494B   https://jwself.huel.edu.cn/META-INF/application-client.xml
+404   494B   https://jwself.huel.edu.cn/META-INF
+404   494B   https://jwself.huel.edu.cn/META-INF/eclipse.inf
+404   494B   https://jwself.huel.edu.cn/META-INF/container.xml
+404   494B   https://jwself.huel.edu.cn/META-INF/jboss-ejb-client.xml
+404   494B   https://jwself.huel.edu.cn/META-INF/jboss-ejb3.xml
+404   494B   https://jwself.huel.edu.cn/META-INF/app-config.xml
+404   494B   https://jwself.huel.edu.cn/META-INF/openwebbeans/openwebbeans.properties
+404   494B   https://jwself.huel.edu.cn/META-INF/persistence.xml
+404   494B   https://jwself.huel.edu.cn/META-INF/application.xml
+404   494B   https://jwself.huel.edu.cn/META-INF/jboss-webservices.xml
+404   494B   https://jwself.huel.edu.cn/META-INF/ra.xml
+404   494B   https://jwself.huel.edu.cn/META-INF/jboss-app.xml
+404   494B   https://jwself.huel.edu.cn/META-INF/jboss-deployment-structure.xml
+404   494B   https://jwself.huel.edu.cn/META-INF/ejb-jar.xml
+404   494B   https://jwself.huel.edu.cn/META-INF/jbosscmp-jdbc.xml
+404   494B   https://jwself.huel.edu.cn/META-INF/ironjacamar.xml
+404   494B   https://jwself.huel.edu.cn/META-INF/MANIFEST.MF
+404   494B   https://jwself.huel.edu.cn/META-INF/context.xml
+404   494B   https://jwself.huel.edu.cn/META-INF/spring/application-context.xml
+404   494B   https://jwself.huel.edu.cn/META-INF/SOFTWARE.SF
+404   494B   https://jwself.huel.edu.cn/META-INF/weblogic-ejb-jar.xml
+404   494B   https://jwself.huel.edu.cn/META-INF/weblogic-application.xml
+302     0B   https://jwself.huel.edu.cn/MicroStrategyWS/happyaxis.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/mifs/login.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/mifs/user/login.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/netadmin.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/OA_HTML/OA.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+200     1KB  https://jwself.huel.edu.cn/phpMyAdmin-3.1.5/
+200     1KB  https://jwself.huel.edu.cn/phpMyAdmin-3.2.2/
+200     1KB  https://jwself.huel.edu.cn/phpMyAdmin-3.2.1/
+200     1KB  https://jwself.huel.edu.cn/phpMyAdmin-3.3.3/
+200     1KB  https://jwself.huel.edu.cn/phpMyAdmin-3.3.3-rc1/
+200     1KB  https://jwself.huel.edu.cn/phpMyAdmin-3.2.0/
+200     1KB  https://jwself.huel.edu.cn/phpMyAdmin-3.3.1/
+400    16B   https://jwself.huel.edu.cn/plupload
+302     0B   https://jwself.huel.edu.cn/portalAppAdmin/login.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/psquare/x.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/runtime_messages.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/signin.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/simple.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/snoop.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+200     1KB  https://jwself.huel.edu.cn/sql/sqladmin/
+200     1KB  https://jwself.huel.edu.cn/sql.tar.gz
+200     1KB  https://jwself.huel.edu.cn/sql/webdb/
+200     1KB  https://jwself.huel.edu.cn/sql/php-myadmin/
+200     1KB  https://jwself.huel.edu.cn/sql/phpmyadmin2/
+200     1KB  https://jwself.huel.edu.cn/sql/
+200     1KB  https://jwself.huel.edu.cn/sql/sql-admin/
+200     1KB  https://jwself.huel.edu.cn/sql.zip
+200     1KB  https://jwself.huel.edu.cn/sql/webadmin/
+200     1KB  https://jwself.huel.edu.cn/sql.tar.bz2
+200     1KB  https://jwself.huel.edu.cn/sql_error.log
+200     1KB  https://jwself.huel.edu.cn/sql/phpMyAdmin/
+200     1KB  https://jwself.huel.edu.cn/sql/phpmy-admin/
+200     1KB  https://jwself.huel.edu.cn/sql/sql/
+200     1KB  https://jwself.huel.edu.cn/sql/myadmin/
+200     1KB  https://jwself.huel.edu.cn/sql/websql/
+200     1KB  https://jwself.huel.edu.cn/sqladm
+200     1KB  https://jwself.huel.edu.cn/sql/phpMyAdmin2/
+200     1KB  https://jwself.huel.edu.cn/sql_dumps
+200     1KB  https://jwself.huel.edu.cn/sql/sqlweb/
+200     1KB  https://jwself.huel.edu.cn/sql/phpmanager/
+302     0B   https://jwself.huel.edu.cn/statistics.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/test.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/tmui/login.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/tomcat-docs/appdev/sample/web/hello.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/tmui/tmui/login/welcome.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/usebean.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/userportal/webpages/myaccount/login.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+404   494B   https://jwself.huel.edu.cn/WEB-INF/
+302     0B   https://jwself.huel.edu.cn/web-console/ServerInfo.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+404   494B   https://jwself.huel.edu.cn/WEB-INF
+404   494B   https://jwself.huel.edu.cn/WEB-INF/classes/countries.properties
+404   494B   https://jwself.huel.edu.cn/WEB-INF/cas.properties
+404   494B   https://jwself.huel.edu.cn/WEB-INF/applicationContext.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/cas-servlet.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/application_config.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/classes/config.properties
+404   494B   https://jwself.huel.edu.cn/WEB-INF/application-client.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/classes/demo.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/classes/faces-config.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/classes/application.properties
+404   494B   https://jwself.huel.edu.cn/WEB-INF/classes/default-theme.properties
+404   494B   https://jwself.huel.edu.cn/WEB-INF/classes/cas-theme-default.properties
+404   494B   https://jwself.huel.edu.cn/WEB-INF/classes/applicationContext.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/classes/app-config.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/classes/default_views.properties
+404   494B   https://jwself.huel.edu.cn/WEB-INF/beans.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/classes/db.properties
+404   494B   https://jwself.huel.edu.cn/WEB-INF/classes/commons-logging.properties
+404   494B   https://jwself.huel.edu.cn/WEB-INF/classes/application.yml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/classes/fckeditor.properties
+404   494B   https://jwself.huel.edu.cn/WEB-INF/classes/hibernate.cfg.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/classes/log4j.properties
+404   494B   https://jwself.huel.edu.cn/WEB-INF/classes/languages.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/classes/log4j.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/classes/messages.properties
+404   494B   https://jwself.huel.edu.cn/WEB-INF/classes/META-INF/persistence.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/classes/logback.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/classes/META-INF/app-config.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/classes/mobile.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/classes/protocol_views.properties
+404   494B   https://jwself.huel.edu.cn/WEB-INF/classes/persistence.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/classes/struts.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/classes/struts-default.vm
+404   494B   https://jwself.huel.edu.cn/WEB-INF/classes/validation.properties
+404   494B   https://jwself.huel.edu.cn/WEB-INF/classes/services.properties
+404   494B   https://jwself.huel.edu.cn/WEB-INF/conf/config.properties
+404   494B   https://jwself.huel.edu.cn/WEB-INF/classes/resources/config.properties
+404   494B   https://jwself.huel.edu.cn/WEB-INF/classes/struts.properties
+404   494B   https://jwself.huel.edu.cn/WEB-INF/classes/theme.properties
+404   494B   https://jwself.huel.edu.cn/WEB-INF/classes/velocity.properties
+404   494B   https://jwself.huel.edu.cn/WEB-INF/conf/caches.properties
+404   494B   https://jwself.huel.edu.cn/WEB-INF/conf/caches.dat
+404   494B   https://jwself.huel.edu.cn/WEB-INF/components.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/conf/core_context.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/conf/jtidy.properties
+404   494B   https://jwself.huel.edu.cn/WEB-INF/classes/web.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/conf/editors.properties
+404   494B   https://jwself.huel.edu.cn/WEB-INF/conf/core.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/conf/daemons.properties
+404   494B   https://jwself.huel.edu.cn/WEB-INF/conf/lutece.properties
+404   494B   https://jwself.huel.edu.cn/WEB-INF/conf/jpa_context.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/conf/mime.types
+404   494B   https://jwself.huel.edu.cn/WEB-INF/conf/search.properties
+404   494B   https://jwself.huel.edu.cn/WEB-INF/conf/db.properties
+404   494B   https://jwself.huel.edu.cn/WEB-INF/conf/webmaster.properties
+404   494B   https://jwself.huel.edu.cn/WEB-INF/conf/page_navigator.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/conf/wml.properties
+404   494B   https://jwself.huel.edu.cn/WEB-INF/config.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/config/faces-config.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/config/dashboard-statistics.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/config/mua-endpoints.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/config/soapConfig.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/config/security.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/config/metadata.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/config/webflow-config.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/config/web-core.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/config/users.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/config/webmvc-config.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/faces-config.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/dispatcher-servlet.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/decorators.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/geronimo-web.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/glassfish-resources.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/deployerConfigContext.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/ejb-jar.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/ias-web.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/glassfish-web.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/hibernate.cfg.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/ibm-web-bnd.xmi
+404   494B   https://jwself.huel.edu.cn/WEB-INF/ibm-web-ext.xmi
+404   494B   https://jwself.huel.edu.cn/WEB-INF/jax-ws-catalog.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/jboss-webservices.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/jboss-deployment-structure.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/jboss-client.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/jboss-ejb-client.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/jonas-web.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/jboss-web.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/jetty-env.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/liferay-display.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/jrun-web.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/jboss-ejb3.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/liferay-layout-templates.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/jetty-web.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/liferay-plugin-package.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/local-jps.properties
+404   494B   https://jwself.huel.edu.cn/WEB-INF/liferay-look-and-feel.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/logs/log.log
+404   494B   https://jwself.huel.edu.cn/WEB-INF/local.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/logback.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/openx-config.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/portlet-custom.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/liferay-portlet.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/portlet.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/remoting-servlet.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/quartz-properties.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/resin-web.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/restlet-servlet.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/rexip-web.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/resources/config.properties
+404   494B   https://jwself.huel.edu.cn/WEB-INF/service.xsd
+404   494B   https://jwself.huel.edu.cn/WEB-INF/sitemesh.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/spring-config.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/spring-config/authorization-config.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/spring-config/application-context.xml
+200     1KB  https://jwself.huel.edu.cn/WEB-INF/spring-config/messaging-config.xml
+200     1KB  https://jwself.huel.edu.cn/WEB-INF/spring-config/management-config.xml
+200     1KB  https://jwself.huel.edu.cn/WEB-INF/spring-config/services-config.xml
+200     1KB  https://jwself.huel.edu.cn/WEB-INF/spring-config/presentation-config.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/spring-config/services-remote-config.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/spring-dispatcher-servlet.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/spring-mvc.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/spring-configuration/filters.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/spring-ws-servlet.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/struts-config-ext.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/spring/webmvc-config.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/springweb-servlet.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/struts-config.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/validation.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/struts-config-widgets.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/spring-context.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/urlrewrite.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/web-borland.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/validator-rules.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/tiles-defs.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/trinidad-config.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/weblogic.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/sun-web.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/web2.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/web-jetty.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/tjc-web.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/web.xml.jsf
+404   494B   https://jwself.huel.edu.cn/WEB-INF/sun-jaxws.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/workflow-properties.xml
+404   494B   https://jwself.huel.edu.cn/WEB-INF/web.xml
+302     0B   https://jwself.huel.edu.cn/webapp/wm/runtime.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
+302     0B   https://jwself.huel.edu.cn/webconsole/webpages/login.jsp    -> REDIRECTS TO: http://jwself.huel.edu.cn/webPages/error/403.jsp
